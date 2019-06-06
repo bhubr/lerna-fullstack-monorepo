@@ -12,9 +12,5 @@
   "parserOptions": {
     "ecmaVersion": 2018
   },
-  "rules": {
-    "no-console": "off",
-    "arrow-parens": "off",
-    "comma-dangle": "off"
-  }
+  "rules": {}
 }
